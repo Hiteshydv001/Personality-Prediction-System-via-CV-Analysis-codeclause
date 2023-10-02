@@ -39,7 +39,30 @@ Choose an appropriate machine learning or deep learning approach for personality
 Train the selected model on the training dataset using the extracted resume features as input and personality trait labels as targets. Fine-tune hyperparameters and optimize the model's architecture for better performance.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(90).png)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(91).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(92).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(93).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(94).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(95).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(96).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(97).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(98).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(99).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(100).png?raw=true)
+
+![App Screenshot](https://github.com/Hiteshydv001/Personality-Prediction-System-via-CV-Analysis-codeclause/blob/main/Screenshot%20(101).png?raw=true)
+
 
 
 ## Tech Stack
@@ -48,10 +71,6 @@ Train the selected model on the training dataset using the extracted resume feat
 
 **Framework:** Jupyter Notebook || Pycharm 
 
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## 🔗 Links
