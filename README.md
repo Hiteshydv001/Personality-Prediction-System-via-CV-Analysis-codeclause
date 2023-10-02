@@ -79,14 +79,6 @@ Train the selected model on the training dataset using the extracted resume feat
 
 
 
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-```Go to the project directory
-```
 
 
